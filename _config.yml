@@ -34,21 +34,19 @@ color:
 footer:
   copyright: Dr. Henry Jekyll
   location: Location
-  social: Around the Web
+  social: Around Michelle
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: http://linkedin.com/in/michelleziqilin
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/MichelleZLin    
+  - title: facebook
+    url: https://www.facebook.com/michelle.lin.562329?ref=bookmarks
+  - title: instagram
+    url: https://www.instagram.com/michelletzckei/
 
 # Postal address (add as many lines as necessary)
 address:
